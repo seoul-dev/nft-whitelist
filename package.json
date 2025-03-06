@@ -1,0 +1,24 @@
+{
+  "name": "nft-whitelist",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/seoul-dev/nft-whitelist#readme",
+  "bugs": {
+    "url": "https://github.com/seoul-dev/nft-whitelist/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoul-dev/nft-whitelist.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.5.1"
+  }
+}
